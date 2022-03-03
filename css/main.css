@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+}
+
+
+.slides {
+  width:400px;
+  margin:auto;
+}
+
+.slides figure {
+  margin:0;
+}
+
+.slides .nxt {
+  float:right;
+}
+
+.slides .prev {
+    float:left;
+  }
