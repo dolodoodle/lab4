@@ -18,3 +18,13 @@ nxt.onclick = function(e) {
   slide.src = baseURL + dogs[index];
 }
 
+prev.onclick = function(e) {
+  e.preventDefault();
+  index = index - 1;
+
+  //write a conditional so that the images wrap back to the beginning image.
+  if(index <= - 1) {
+    index = dogs.length - 1;
+  }
+  slide.src = baseURL + dogs[index];
+}
