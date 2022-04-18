@@ -3,6 +3,17 @@ body {
   background-image: url(/images/bonebackground.png);
 }
 
+header {
+  color: #6a1414;
+  /*font-family: 'Big Shoulders Text', cursive;*/
+  font-size: 35px;
+  background-color: #C0DDE3;
+  text-align: center;
+  margin: 0;
+  max-width: 100%;
+  padding: 45px 80px;
+}
+
 h1 {
   text-align: center;
 }
