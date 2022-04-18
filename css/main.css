@@ -1,3 +1,8 @@
+
+body {
+  background-image: url(/images/bonebackground.png);
+}
+
 h1 {
   text-align: center;
 }
@@ -23,3 +28,4 @@ img {
 .slides .prev {
     float:left;
   }
+
