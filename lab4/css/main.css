@@ -1,0 +1,46 @@
+
+body {
+  background-color: #e1d2ad;
+}
+
+header {
+  color: #6a1414;
+  /*font-family: 'Big Shoulders Text', cursive;*/
+  font-size: 35px;
+  background-color: #C0DDE3;
+  text-align: center;
+  margin: 0;
+  max-width: 100%;
+  padding: 45px 80px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  display: block;
+}
+
+
+.slides {
+  width:400px;
+  margin:auto;
+}
+
+.slides figure {
+  margin:0;
+}
+
+.slides .nxt {
+  float:right;
+}
+
+.slides .prev {
+    float:left;
+  }
+
